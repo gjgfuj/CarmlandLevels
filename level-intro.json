@@ -1,0 +1,5 @@
+{
+  "type": "dialogue",
+  "text": "Hello, good fellow.",
+  "nextlevel": "intro2"
+}
