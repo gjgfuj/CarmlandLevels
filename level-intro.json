@@ -2,5 +2,6 @@
   "type": "dialogue",
   "text": "Hello, good fellow.",
   "nextlevel": "intro2",
-  "mainimage": "introimage.png"
+  "mainimage": "introimage.png",
+  "image": "introimage.png"
 }
