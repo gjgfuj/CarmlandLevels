@@ -3,5 +3,5 @@
   "text": "Hello, good fellow.",
   "nextlevel": "intro2",
   "mainimage": "introimage.png",
-  "image": "introimage.png"
+  "icon": "introimage.png"
 }
