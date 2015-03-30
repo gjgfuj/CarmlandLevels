@@ -1,7 +1,6 @@
 {
   "type": "dialogue",
-  "text": "Hello, good fellow.",
+  "text": "Hello there? Are you awake?",
   "nextlevel": "intro2",
-  "mainimage": "introimage.png",
-  "icon": "introimage.png"
+  "index": "mainindex"
 }

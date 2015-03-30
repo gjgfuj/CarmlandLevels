@@ -1,0 +1,12 @@
+{
+  "type": "program",
+  "text": "Try getUp.",
+  "programdef": {
+    "functions": {
+      "getUp": [
+        {"action": "nextlevel"}
+      ]
+    }
+  },
+  "nextlevel": "intro5"
+}
